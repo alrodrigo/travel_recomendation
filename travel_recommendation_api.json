@@ -1,0 +1,113 @@
+{
+  "countries": [
+    {
+      "name": "Perú",
+      "cities": [
+        {
+          "name": "Cusco",
+          "description": "Ciudad histórica cercana a Machu Picchu, rica en cultura incaica.",
+          "imageUrl": "https://images.unsplash.com/photo-1519681393784-d120267933ba?auto=format&fit=crop&w=800&q=60"
+        },
+        {
+          "name": "Lima",
+          "description": "Capital costera con excelente gastronomía y vida urbana.",
+          "imageUrl": "https://images.unsplash.com/photo-1505765054851-4c9a4de7f3b6?auto=format&fit=crop&w=800&q=60"
+        },
+        {
+          "name": "Iquitos",
+          "description": "Puerta de entrada a la Amazonía peruana, ideal para ecoturismo.",
+          "imageUrl": "https://images.unsplash.com/photo-1505765054851-4c9a4de7f3b6?auto=format&fit=crop&w=800&q=60"
+        }
+      ]
+    },
+    {
+      "name": "España",
+      "cities": [
+        {
+          "name": "Barcelona",
+          "description": "Ciudad con arquitectura icónica y playas urbanas.",
+          "imageUrl": "https://images.unsplash.com/photo-1508057198894-247b23fe5ade?auto=format&fit=crop&w=800&q=60"
+        },
+        {
+          "name": "Sevilla",
+          "description": "Corazón andaluz con rica tradición cultural y festivales.",
+          "imageUrl": "https://images.unsplash.com/photo-1508057198894-247b23fe5ade?auto=format&fit=crop&w=800&q=60"
+        }
+      ]
+    },
+    {
+      "name": "Japón",
+      "cities": [
+        {
+          "name": "Tokio",
+          "description": "Metrópoli vibrante que mezcla tradición y tecnología.",
+          "imageUrl": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?auto=format&fit=crop&w=800&q=60"
+        },
+        {
+          "name": "Kioto",
+          "description": "Centro histórico con templos, jardines y tradición japonesa.",
+          "imageUrl": "https://images.unsplash.com/photo-1549693578-d683be217e58?auto=format&fit=crop&w=800&q=60"
+        }
+      ]
+    },
+    {
+      "name": "Grecia",
+      "cities": [
+        {
+          "name": "Santorini",
+          "description": "Isla famosa por sus atardeceres y arquitectura blanca sobre el mar.",
+          "imageUrl": "https://images.unsplash.com/photo-1502784444185-70f68c1f9d6f?auto=format&fit=crop&w=800&q=60"
+        }
+      ]
+    }
+  ],
+  "beaches": [
+    {
+      "name": "Playa de los Muertos",
+      "description": "Arena blanca y aguas cristalinas, ideal para relajarse.",
+      "imageUrl": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=800&q=60"
+    },
+    {
+      "name": "Copacabana",
+      "description": "Famosa playa con un ambiente vibrante.",
+      "imageUrl": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=800&q=60"
+    },
+    {
+      "name": "Tulum",
+      "description": "Playa en México con ruinas mayas cercanas y aguas turquesa.",
+      "imageUrl": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=800&q=60"
+    },
+    {
+      "name": "Bondi Beach",
+      "description": "Playa icónica de Sídney, popular entre surfistas.",
+      "imageUrl": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=800&q=60"
+    },
+    {
+      "name": "Playa Paraíso",
+      "description": "Una bahía tranquila con arena suave y poca multitud.",
+      "imageUrl": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=800&q=60"
+    }
+  ],
+  "temples": [
+    {
+      "name": "Machu Picchu",
+      "description": "Santuario histórico de la cultura Inca, en las alturas de los Andes.",
+      "imageUrl": "https://images.unsplash.com/photo-1505765054851-4c9a4de7f3b6?auto=format&fit=crop&w=800&q=60"
+    },
+    {
+      "name": "Angkor Wat",
+      "description": "Complejo de templos en Camboya, patrimonio universal.",
+      "imageUrl": "https://images.unsplash.com/photo-1509395176047-4a66953fd231?auto=format&fit=crop&w=800&q=60"
+    },
+    {
+      "name": "Senso-ji",
+      "description": "Antiguo templo budista en el distrito de Asakusa (Tokio).",
+      "imageUrl": "https://images.unsplash.com/photo-1549693578-d683be217e58?auto=format&fit=crop&w=800&q=60"
+    },
+    {
+      "name": "Partenón",
+      "description": "Templo emblemático en la Acrópolis de Atenas, símbolo de la antigua Grecia.",
+      "imageUrl": "https://images.unsplash.com/photo-1502784444185-70f68c1f9d6f?auto=format&fit=crop&w=800&q=60"
+    }
+  ]
+}
